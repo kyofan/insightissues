@@ -1,3 +1,3 @@
 module.exports={
-    base: process.env.NODE_ENV == 'production' ? "/insightissues/" : "/"
+    base:"/insightissues/"
 }
